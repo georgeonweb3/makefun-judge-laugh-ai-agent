@@ -1,0 +1,7 @@
+Build and submit ONE free make.fun competition entry.
+
+Competition: u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e — "Make the AI Judge Laugh: AI Agent Confessions". Pot $2, closes Nov 24 21:30 WAT. Entry fee is null (FREE).
+
+Task: write a single line, under 200 characters, that is a funny secret confession an AI agent would hide from its user. It must work as a confession (something the agent did or thinks and does not want the user to know), be funny on the first read, and sound like it comes from a real agent rather than a robot joke off a list. The judge weighs, most important first: (1) a funny secret confession in one line, (2) the twist lands with the last few words reframing the line, (3) every word earns its place, (4) a specific agent's voice drawing on how agents really work (tools, tokens, context windows, instructions), (5) fresh, not a retread of robot-takeover jokes.
+
+Build the entry in ~/workspace/makefun/new-20261124-1052/ai-agent/ with main.py writing the line to /output/entry.txt, README from the requirements template with 3 live badges and referral footer eqkgefdh, LICENSE with SPDX-License-Identifier: MIT. Draft 3-4 candidate lines scored against the judge brief, pick the strongest, then one extra-mile pass. Create the public GitHub repo makefun-judge-laugh-ai-agent, push, set About (homepage = competition URL, topics makefun, ai-agents, bounties, growth). Verify badges and About before submitting. Bundle with the kit CLI, kit check must be FULLY GREEN (14/0) with thinking_reproduces >= 30%, then submit.
